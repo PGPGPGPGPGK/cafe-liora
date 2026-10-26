@@ -1,0 +1,9 @@
+filename,description,source,status,derivatives
+courtyard-01.png,Courtyard entrance — arched door and LIORA signage,Supplied by client (Cafe_Liora_Assets/courtyard-01.png),in use,"courtyard-01-{400,800,1200,1536}.webp + courtyard-01.jpg"
+coffee-latte.png,Latte art,Supplied by client (Cafe_Liora_Assets/coffee-latte.png),in use,"coffee-latte-{400,800,1076}.webp + coffee-latte.jpg"
+biscoff-shake.png,Lotus Biscoff shake,Supplied by client (Cafe_Liora_Assets/biscoff-shake.png),in use,"biscoff-shake-{400,800,1200,1535}.webp + biscoff-shake.jpg"
+watermelon-mocktail.png,Watermelon mocktail,Supplied by client (Cafe_Liora_Assets/watermelon-mocktail.png),in use,"watermelon-mocktail-{400,682}.webp + watermelon-mocktail.jpg"
+courtyard-02,Courtyard second angle,Not supplied — noted as missing in the client README.txt,missing — placeholder shown,none
+instagram-profile-reference.jpg,Instagram profile screenshot,Supplied by client — reference only,reference only (not published),none
+instagram-grid-food-reference.jpg,Instagram food grid screenshot,Supplied by client — reference only; source for the dish names in src/data/menu.ts,reference only (not published),none
+instagram-grid-events-reference.jpg,Instagram events grid screenshot,Supplied by client — reference only; source for src/data/experiences.ts,reference only (not published),none
